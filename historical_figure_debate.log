@@ -206,3 +206,49 @@ This historical analysis encourages us to approach modern debates on climate cha
 
 === Historical Figure Debate Concluded ===
 Thank you for attending this unique historical perspective on a modern issue!
+
+=== Welcome to the Historical Figure Debate ===
+
+
+Activating Debate Topic Agent...
+
+--- Debate Topic Agent output ---
+**Debate Topic:** "Is Universal Basic Income a Viable Solution to Addressing Poverty and Inequality in Modern Societies?"
+
+**Explanation:** This topic is significant because it touches on the core of many global challenges, including poverty, inequality, and economic instability. It is controversial because different stakeholders have varying opinions on its effectiveness and feasibility, making it an ideal subject for debate among historical figures with diverse backgrounds and perspectives. The concept of Universal Basic Income (UBI) has been gaining traction globally, but its implementation and impact are still being debated.
+
+**Key Aspects/Questions:**
+
+1. **Effectiveness in addressing poverty**: Should UBI be prioritized as a means to eradicate or significantly reduce poverty, given its potential to provide financial security for all citizens? Historical figures can discuss the successes and failures of past programs aimed at poverty alleviation and compare them with the promise of UBI.
+2. **Implementation and funding mechanisms**: How should governments fund UBI, considering various proposals such as progressive taxation, redistribution of existing social welfare funds, or innovative revenue streams like digital taxes? Debaters will need to evaluate these options in light of their own understanding of economic systems and public policy-making from different eras.
+3. **Impact on work culture and productivity**: Would implementing UBI incentivize individuals to pursue meaningful work rather than relying on handouts, potentially boosting social and economic productivity? Or could it lead to a decrease in the drive for employment, altering societal dynamics and economic structures forever? Historical figures can share their insights into how different societies have responded to the relationship between work, leisure, and welfare over time.
+--- End of Debate Topic Agent output ---
+
+
+Activating Historical Figure Selector Agent...
+
+--- Historical Figure Selector Agent output ---
+Here are three historical figures I've selected for the debate on Universal Basic Income:
+
+**1.**
+**Name:** Jean-Jacques Rousseau
+**Title/Description:** Philosopher and Social Contract Theorist
+**Why interested in this topic:** As an advocate for social justice and equality, Rousseau would be intrigued by the idea of UBI as a means to address poverty and inequality. He might see it as a way to implement his concept of "natural liberty," where individuals are free from exploitation and coercion.
+**Unique perspective/argument:** Rousseau could argue that UBI is essential for preserving the social contract, ensuring that citizens trust their government and feel secure in their basic needs being met. This would foster a sense of collective responsibility and encourage active citizenship.
+
+**2.**
+**Name:** Friedrich Hayek
+**Title/Description:** Economist and Nobel Laureate
+**Why interested in this topic:** As a pioneer of libertarian economics, Hayek would be skeptical of UBI as a government-managed solution to poverty. He might view it as an attempt to micromanage the economy and undermine individual freedom.
+**Unique perspective/argument:** Hayek could argue that UBI would inevitably lead to unintended consequences, such as disincentivizing work and innovation. Instead, he'd suggest that targeted social programs and market-based solutions are more effective in addressing poverty and promoting economic growth.
+
+**3.**
+**Name:** Betty Friedan
+**Title/Description:** Feminist Author and Activist
+**Why interested in this topic:** As a leading figure in the feminist movement, Friedan would be concerned with how UBI affects women's roles and empowerment in society. She might see it as an opportunity to challenge traditional gender norms and ensure that women have economic security and agency.
+**Unique perspective/argument:** Friedan could argue that UBI is crucial for creating a more equitable society, where women can pursue careers and contribute to the economy without fear of poverty or financial insecurity. This would enable them to take control of their lives and break free from traditional roles.
+
+These three historical figures bring diverse perspectives on UBI, ranging from social contract theory to libertarian economics and feminist advocacy. Their unique arguments and experiences will enrich the debate and encourage a nuanced discussion about the viability and potential impact of Universal Basic Income in modern societies.
+--- End of Historical Figure Selector Agent output ---
+
+Error in historical figure debate: TypeError: Cannot read properties of null (reading 'map')
